@@ -10,3 +10,6 @@ Diese 3 Registryeinträge in alle DCs einfügen:
 
 ## laut Microsoft Support sollte dieser Eintrag ausreichen
 > reg add "HKLM\SYSTEM\CurrentControlSet\services\kdc" /v ApplyDefaultDomainPolicy /t REG_DWORD /d 0 /f  
+
+https://www.reddit.com/r/sysadmin/comments/ypbpju/patch_tuesday_megathread_20221108/  
+https://twitter.com/fabian_bader/status/1590339101580222464**  
