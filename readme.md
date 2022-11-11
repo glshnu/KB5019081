@@ -4,6 +4,7 @@
 Siehe [Lösungsansätze](solutions.md)
 
 # November-Update bringt 3 Patches für Domain-Controller (CVE-2022-37966, CVE-2022-37967, CVE-2022-38023)
+Quelle: www.windowspro.de
 
 Das kumulative Update KB5019081 beseitigt drei Schwachstellen im Kerberos- und Netlogon-Protokoll. 
 Die Patches können erhebliche Auswirkungen haben und erfordern daher eine Überprüfung oder Anpassung des Systems. 
