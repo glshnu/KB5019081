@@ -62,11 +62,11 @@ Für diesen Zweck ist der Registry-Key KrbtgtFullPacSignature vom Typ DWORD unte
 > HKLM:\System\currentcontrolset\services\kdc
 vorgesehen. 
 
-Ein Wert von 2 steht für den Audit Mode, 
-3 für den Enforcement-Modus, 
-0 deaktiviert das Feature und 
-2 signiert die PAC Buffer, verifiziert dies aber nicht. 
-Letzteres ist aktuell die Vorgabe.
+Ein Wert von 2 steht für den Audit Mode,  
+3 für den Enforcement-Modus,  
+0 deaktiviert das Feature und  
+2 signiert die PAC Buffer, verifiziert dies aber nicht.  
+Letzteres ist aktuell die Vorgabe.  
 
 ## Änderungen des Netlogon-Protokolls
 Microsoft reagiert auf CVE-2022-38023 mit der vollständigen Umstellung von RPC Signing auf RPC Sealing für Netlogon. 
@@ -80,6 +80,6 @@ das nicht mehr möglich.
 Dies lässt sich ebenfalls über einen Registry-Schlüssel steuern, nämlich RequireSeal unter
 > HKLM:\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters
 
-Dabei steht der Wert 1 für Kompatibilität und
-2 für die Durchsetzung von RPC Sealing.
+Dabei steht der Wert 1 für Kompatibilität und  
+2 für die Durchsetzung von RPC Sealing.  
 
