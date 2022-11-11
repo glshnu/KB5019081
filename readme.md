@@ -1,3 +1,6 @@
+[Click me](http://www.google.com){: .btn}
+
+
 # November-Update bringt 3 Patches für Domain-Controller (CVE-2022-37966, CVE-2022-37967, CVE-2022-38023)
 
 Das kumulative Update KB5019081 beseitigt drei Schwachstellen im Kerberos- und Netlogon-Protokoll. 
