@@ -1,10 +1,8 @@
 **[Links](links.md), [Lösungsansätze](solutions.md)**
 
-```
-**!! Aktuell scheint es Probleme mit den Patches zu geben !! **
-https://www.reddit.com/r/sysadmin/comments/ypbpju/patch_tuesday_megathread_20221108/
-https://twitter.com/fabian_bader/status/1590339101580222464
-```
+**!! Aktuell scheint es Probleme mit den Patches zu geben !!
+https://www.reddit.com/r/sysadmin/comments/ypbpju/patch_tuesday_megathread_20221108/  
+https://twitter.com/fabian_bader/status/1590339101580222464**  
 
 # November-Update bringt 3 Patches für Domain-Controller (CVE-2022-37966, CVE-2022-37967, CVE-2022-38023)
 
