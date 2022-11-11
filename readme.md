@@ -1,6 +1,4 @@
-```
-**[Links](https://github.com/glshnu/MS-November-2022-Updates/blob/main/links.md), [Lösungsansätze](https://github.com/glshnu/MS-November-2022-Updates/blob/main/solutions.md)**
-```
+**[Links](links.md), [Lösungsansätze](https://github.com/glshnu/MS-November-2022-Updates/blob/main/solutions.md)**
 
 
 # November-Update bringt 3 Patches für Domain-Controller (CVE-2022-37966, CVE-2022-37967, CVE-2022-38023)
