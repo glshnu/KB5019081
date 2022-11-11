@@ -62,10 +62,11 @@ Für diesen Zweck ist der Registry-Key KrbtgtFullPacSignature vom Typ DWORD unte
 > HKLM:\System\currentcontrolset\services\kdc
 vorgesehen. 
 
-Ein Wert von 2 steht für den Audit Mode,  
+Ein Wert von   
+2 steht für den Audit Mode,  
 3 für den Enforcement-Modus,  
 0 deaktiviert das Feature und  
-2 signiert die PAC Buffer, verifiziert dies aber nicht.  
+1 signiert die PAC Buffer, verifiziert dies aber nicht.  
 Letzteres ist aktuell die Vorgabe.  
 
 ## Änderungen des Netlogon-Protokolls
