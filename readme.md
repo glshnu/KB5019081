@@ -1,4 +1,4 @@
-[Click me](http://www.google.com){: .btn}
+**[Links](http://www.google.com), [Lösungsansätze]()**
 
 
 # November-Update bringt 3 Patches für Domain-Controller (CVE-2022-37966, CVE-2022-37967, CVE-2022-38023)
