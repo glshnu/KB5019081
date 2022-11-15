@@ -1,5 +1,8 @@
 **[Links](links.md), [Lösungsansätze](solutions.md)**
 
+[14.11.2022 - event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden](https://www.windowspro.de/news/event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden/05227.html) 
+
+
 !! Aktuell scheint es Probleme mit den Patches zu geben !!
 Siehe [Lösungsansätze](solutions.md)
 
