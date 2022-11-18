@@ -1,5 +1,17 @@
 **[Links](links.md), [Lösungsansätze](solutions.md)**
 
+[18.11.2022]   
+[MS OOB Update released](https://learn.microsoft.com/en-us/windows/release-health/windows-message-center#2961)  
+  
+Cumulative updates:   
+Windows Server 2022: [KB5021656](https://support.microsoft.com/de-de/topic/november-17-2022-kb5021656-os-build-20348-1251-out-of-band-b165e8dd-cc02-4912-9cfa-a6b2b1016c37)  
+Windows Server 2019: [KB5021655](https://support.microsoft.com/de-de/topic/17-november-2022-kb5021655-bs-build-17763-3653-out-of-band-8e0c94f1-0a7d-4602-a47b-1f086434bb16)  
+Windows Server 2016: [KB5021654](https://support.microsoft.com/de-de/topic/17-november-2022-kb5021654-bs-build-14393-5502-out-of-band-3bccb4df-bfa1-4c70-9ce3-d5842e3af467)  
+
+
+Standalone Updates: Windows Server 2012 R2: KB5021653 Windows Server 2012: KB5021652 Windows Server 2008 R2 SP1: This update is not yet available. Please check here in the coming week for more information. Windows Server 2008 SP2: KB5021657
+ 
+
 [14.11.2022 - event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden](https://www.windowspro.de/news/event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden/05227.html) 
 
 
