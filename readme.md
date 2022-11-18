@@ -9,8 +9,8 @@ Windows Server 2019: [KB5021655](https://support.microsoft.com/de-de/topic/17-no
 Windows Server 2016: [KB5021654](https://support.microsoft.com/de-de/topic/17-november-2022-kb5021654-bs-build-14393-5502-out-of-band-3bccb4df-bfa1-4c70-9ce3-d5842e3af467)  
 
  
-
-[14.11.2022 - event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden](https://www.windowspro.de/news/event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden/05227.html) 
+[14.11.2022]  
+[event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden](https://www.windowspro.de/news/event-id-144771-benutzer-koennen-sich-nach-november-update-nicht-anmelden/05227.html) 
 
 
 !! Aktuell scheint es Probleme mit den Patches zu geben !!
